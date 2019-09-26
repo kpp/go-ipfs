@@ -28,12 +28,12 @@ require (
 	github.com/ipfs/go-fs-lock v0.0.1
 	github.com/ipfs/go-ipfs-blockstore v0.1.0
 	github.com/ipfs/go-ipfs-chunker v0.0.1
-	github.com/ipfs/go-ipfs-cmds v0.1.0
+	github.com/ipfs/go-ipfs-cmds v0.1.1
 	github.com/ipfs/go-ipfs-config v0.0.11
 	github.com/ipfs/go-ipfs-ds-help v0.0.1
 	github.com/ipfs/go-ipfs-exchange-interface v0.0.1
 	github.com/ipfs/go-ipfs-exchange-offline v0.0.1
-	github.com/ipfs/go-ipfs-files v0.0.5
+	github.com/ipfs/go-ipfs-files v0.0.6
 	github.com/ipfs/go-ipfs-posinfo v0.0.1
 	github.com/ipfs/go-ipfs-provider v0.2.2
 	github.com/ipfs/go-ipfs-routing v0.1.0
